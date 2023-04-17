@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Fullstack Development Projects**
 
-- 🌱 I’m currently learning **MEARN technologies**
+- 🌱 I’m currently learning **MARN technologies**
 
 - 👯 I’m looking to collaborate on **Machine Learning related Projects**
 
