@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on **Fullstack Development Projects**
 
-- 🌱 I’m currently learning **MARN technologies**
+- 🌱 I’m currently learning **Flutter & Dart technologies**
 
-- 👯 I’m looking to collaborate on **Machine Learning related Projects**
+- 👯 I’m looking to collaborate on **Frontend, Application development for desktop, Machine Learning related Projects**
 
 - 👨‍💻 All of my projects are available at [https://yash-kumar-gupta-0845.github.io/Portfolio/](https://yash-kumar-gupta-0845.github.io/Portfolio/)
 
-- 💬 Ask me about **Data Structure and Algorithm, Problem Solving, Programming etc.**
+- 💬 Ask me about **Data Structure and Algorithm, Problem Solving, Programming, Designing and Development.**
 
 - 📫 How to reach me **yash.gupta0845@gmail.com**
 
-- ⚡ Fun fact **I love to do adventure...**
+- ⚡ Fun fact **I love to do adventures...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
